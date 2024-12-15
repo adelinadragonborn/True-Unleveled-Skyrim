@@ -2,9 +2,28 @@
     "Zones": [
         {
             "Keys": [
-                "ThalmorEmbassy",
+                "BleakFallsBarrowZone",
+                "PurewaterRunZone"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 1,
+            "MaxLevel": 20,
+            "Range": 10
+        },
+        {
+            "Keys": [
+                "GoldenglowFarmZone",
+                "ThalmorEmbassyZone",
                 "StendarrsBeacon",
-                "HalloftheVigilant"
+                "HighHrothgarZone",
+                "RiverwatchZone",
+                "ThroatoftheWorldZone",
+                "BannermistZone",
+                "BrinewaterGrottoZone",
+                "WeynonStonesZone",
+                "WhitewatchTowerZone",
+                "RiversideShackZone",
+                "RockjointIslandZone"
             ],
             "ForbiddenKeys": [],
             "MinLevel": 15,
@@ -13,9 +32,59 @@
         },
         {
             "Keys": [
-                "DLC1Falmer",
-                "DLC1zFalmer",
-                "DLC1ForebearsHoldout"
+                "DaintySloadZone",
+                "WidowsWatchRuinsZone",
+                "SkytempleRuinsZone",
+                "PinefrostTowerZone",
+                "DeepFolkCrossingZone"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 15,
+            "MaxLevel": 50,
+            "Range": 15
+        },
+        {
+            "Keys": [
+                "RiftenRatwayZone",
+                "WindwardRuinsZone",
+                "KjenstagRuinsZone",
+                "WaywardPassZone",
+                "YorgrimOverlookZone",
+                "HalloftheVigilantZone",
+                "ShorsWatchtowerZone",
+                "AlchemistsShackZone",
+                "WarehouseZone",
+                "IronbackHideoutZone",
+                "JourneymansNookZone",
+                "TraitorsPostZone"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 10,
+            "MaxLevel": 40,
+            "Range": 15
+        },
+        {
+            "Keys": [
+                "AzurasStarZone",
+                "SovngardeZone",
+                "RkundZone",
+                "ShrineofBoethiahZone",
+                "MarkarthAbandonedHouseZone",
+                "BluePalaceWingZone"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 30,
+            "MaxLevel": 50,
+            "Range": 15
+        },
+        {
+            "Keys": [
+                "DLC1FalmerValleyTempleZone",
+                "DLC1FalmerValleyZone",
+                "DLC1_AncestorsGladeZone",
+                "DLC1_SoulCairnZone",
+                "DLC1_VCDungeonZone",
+                "DLC1ForebearsHoldoutZone"
             ],
             "ForbiddenKeys": [],
             "MinLevel": 15,
@@ -24,7 +93,13 @@
         },
         {
             "Keys": [
-                "DLC1VampireCastle"
+                "DLC1VampireCastle",
+                "DLC1zFalmerValley01Zone",
+                "DLC1zFalmerValley02Zone",
+                "DLC1zFalmerValley03Zone",
+                "DLC1DarkfallCaveZone",
+                "DLC1DarkfallPassageZone",
+                "DLC1GlacialCreviceZone"
             ],
             "ForbiddenKeys": [],
             "MinLevel": 25,
@@ -33,7 +108,36 @@
         },
         {
             "Keys": [
-                "DLC2Book"
+                "DLC2AbandonedLodgeZone"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 15,
+            "MaxLevel": 40,
+            "Range": 15
+        },
+        {
+            "Keys": [
+                "DLC2TempleOfMiraakZone"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 25,
+            "MaxLevel": 60,
+            "Range": 25,
+            "EnableCombatBoundary": true
+        },
+        {
+            "Keys": [
+                "DLC2MiscBookLevel1Zone",
+                "DragontoothCraterZone",
+                "DrelasCottageZone",
+                "EldersbloodPeakZone",
+                "DLC2Book01DungeonZone",
+                "DLC2Book02DungeonZone",
+                "DLC2Book03DungeonZone",
+                "DLC2Book04DungeonZone",
+                "DLC2Book05DungeonZone",
+                "DLC2Book06DungeonZone",
+                "DLC2Book07DungeonZone"
             ],
             "ForbiddenKeys": [],
             "MinLevel": 25,
@@ -43,13 +147,15 @@
         },
         {
             "Keys": [
-                "DLC2AbandonedLodge",
                 "DLC2BujoldsRetreat",
                 "DLC2POI13",
                 "DLC2DremoraShop",
                 "DLC2RamshackleTradingPost",
                 "DLC2HoldingCellBard",
-                "Doomstone"
+                "DoomstoneLordZone",
+                "DoomstoneRitualZone",
+                "DoomstoneSerpentZone",
+                "DoomstoneShadowZone"
             ],
             "ForbiddenKeys": [],
             "MinLevel": 1,
