@@ -3,19 +3,6 @@
         {
             "Keys": [
                 "BleakFallsBarrowZone",
-                "DoomstoneApprenticeZone",
-                "DoomstoneThiefZone",
-                "DoomstoneWarriorZone",
-                "DoomstoneTowerZone",
-                "DoomstoneSteedZone",
-                "DoomstoneMageZone",
-                "DoomstoneLoverZone",
-                "DoomstoneLadyZone",
-                "DoomstoneAtronachZone",
-                "DoomstoneLordZone",
-                "DoomstoneRitualZone",
-                "DoomstoneSerpentZone",
-                "DoomstoneShadowZone",
                 "CliffsideRetreatZone",
                 "ReachwindEyrieZone",
                 "FrokisShackZone",
@@ -31,6 +18,27 @@
             "ForbiddenKeys": [],
             "MinLevel": 1,
             "MaxLevel": 20,
+            "Range": 10
+        },
+        {
+            "Keys": [
+                "DoomstoneApprenticeZone",
+                "DoomstoneAtronachZone",
+                "DoomstoneLadyZone",
+                "DoomstoneLordZone",
+                "DoomstoneLoverZone",
+                "DoomstoneMageZone",
+                "DoomstoneRitualZone",
+                "DoomstoneSerpentZone",
+                "DoomstoneShadowZone",
+                "DoomstoneSteedZone",
+                "DoomstoneThiefZone",
+                "DoomstoneTowerZone",
+                "DoomstoneWarriorZone"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 5,
+            "MaxLevel": 15,
             "Range": 10
         },
         {
