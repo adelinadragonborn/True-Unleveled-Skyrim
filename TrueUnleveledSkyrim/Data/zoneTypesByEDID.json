@@ -3,6 +3,29 @@
         {
             "Keys": [
                 "BleakFallsBarrowZone",
+                "DoomstoneApprenticeZone",
+                "DoomstoneThiefZone",
+                "DoomstoneWarriorZone",
+                "DoomstoneTowerZone",
+                "DoomstoneSteedZone",
+                "DoomstoneMageZone",
+                "DoomstoneLoverZone",
+                "DoomstoneLadyZone",
+                "DoomstoneAtronachZone",
+                "DoomstoneLordZone",
+                "DoomstoneRitualZone",
+                "DoomstoneSerpentZone",
+                "DoomstoneShadowZone",
+                "CliffsideRetreatZone",
+                "ReachwindEyrieZone",
+                "FrokisShackZone",
+                "LostProspectMineZone",
+                "GjukarsMonumentZone",
+                "LundsHutZone",
+                "CrabbersShantyZone",
+                "AngisCampZone",
+                "MeekosShackZone",
+                "StendarrsBeaconZone",
                 "PurewaterRunZone"
             ],
             "ForbiddenKeys": [],
@@ -23,6 +46,8 @@
                 "WeynonStonesZone",
                 "WhitewatchTowerZone",
                 "RiversideShackZone",
+                "HuntersRestZone",
+                "ShrineofPeryiteZone",
                 "RockjointIslandZone"
             ],
             "ForbiddenKeys": [],
@@ -79,6 +104,17 @@
         },
         {
             "Keys": [
+                "DragontoothCraterZone",
+                "DrelasCottageZone",
+                "EldersbloodPeakZone"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 25,
+            "MaxLevel": 50,
+            "Range": 15
+        },
+        {
+            "Keys": [
                 "DLC1FalmerValleyTempleZone",
                 "DLC1FalmerValleyZone",
                 "DLC1_AncestorsGladeZone",
@@ -120,7 +156,7 @@
                 "DLC2TempleOfMiraakZone"
             ],
             "ForbiddenKeys": [],
-            "MinLevel": 25,
+            "MinLevel": 35,
             "MaxLevel": 60,
             "Range": 25,
             "EnableCombatBoundary": true
@@ -128,9 +164,6 @@
         {
             "Keys": [
                 "DLC2MiscBookLevel1Zone",
-                "DragontoothCraterZone",
-                "DrelasCottageZone",
-                "EldersbloodPeakZone",
                 "DLC2Book01DungeonZone",
                 "DLC2Book02DungeonZone",
                 "DLC2Book03DungeonZone",
@@ -149,13 +182,10 @@
             "Keys": [
                 "DLC2BujoldsRetreat",
                 "DLC2POI13",
-                "DLC2DremoraShop",
-                "DLC2RamshackleTradingPost",
+                "DLC2DremoraShopZone",
+                "DLC2RamshackleTradingPostZone",
                 "DLC2HoldingCellBard",
-                "DoomstoneLordZone",
-                "DoomstoneRitualZone",
-                "DoomstoneSerpentZone",
-                "DoomstoneShadowZone"
+                "DLC2BujoldsRetreatZone"
             ],
             "ForbiddenKeys": [],
             "MinLevel": 1,
