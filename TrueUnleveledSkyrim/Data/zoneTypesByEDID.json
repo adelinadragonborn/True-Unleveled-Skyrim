@@ -166,8 +166,7 @@
             "ForbiddenKeys": [],
             "MinLevel": 35,
             "MaxLevel": 60,
-            "Range": 25,
-            "EnableCombatBoundary": true
+            "Range": 25
         },
         {
             "Keys": [
@@ -198,6 +197,24 @@
             "MinLevel": 1,
             "MaxLevel": 30,
             "Range": 30
+        },
+        {
+            "Keys": [
+                "ccBGSSSE025_RootDungeonEZ"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 10,
+            "MaxLevel": 40,
+            "Range": 25
+        },
+        {
+            "Keys": [
+                "FFAOBBoethiahRealmZone"
+            ],
+            "ForbiddenKeys": [],
+            "MinLevel": 25,
+            "MaxLevel": 50,
+            "Range": 25
         }
     ]
 }
