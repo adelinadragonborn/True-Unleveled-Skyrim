@@ -188,11 +188,11 @@
         },
         {
             "Keys": [
-                "DLC2BujoldsRetreat",
-                "DLC2POI13",
+                "DLC2BujoldsRetreatZone",
+                "DLC2POI13Zone",
                 "DLC2DremoraShopZone",
                 "DLC2RamshackleTradingPostZone",
-                "DLC2HoldingCellBard",
+                "DLC2HoldingCellBardZone",
                 "DLC2BujoldsRetreatZone"
             ],
             "ForbiddenKeys": [],
